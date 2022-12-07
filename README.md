@@ -1,2 +1,2 @@
 # Ecommerce-website
-A multipage responsive Ecommerce website using Html, CSS and Javascript
+A multipage responsive Ecommerce website built with Html, CSS and Javascript
